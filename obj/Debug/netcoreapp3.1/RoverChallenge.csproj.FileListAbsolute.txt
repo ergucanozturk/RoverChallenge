@@ -1,0 +1,11 @@
+c:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.exe
+C:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.deps.json
+C:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.runtimeconfig.json
+C:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.runtimeconfig.dev.json
+c:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.dll
+c:\Users\Elovitnas\roverChallenge\bin\Debug\netcoreapp3.1\RoverChallenge.pdb
+c:\Users\Elovitnas\roverChallenge\obj\Debug\netcoreapp3.1\RoverChallenge.csprojAssemblyReference.cache
+c:\Users\Elovitnas\roverChallenge\obj\Debug\netcoreapp3.1\RoverChallenge.AssemblyInfoInputs.cache
+c:\Users\Elovitnas\roverChallenge\obj\Debug\netcoreapp3.1\RoverChallenge.AssemblyInfo.cs
+c:\Users\Elovitnas\roverChallenge\obj\Debug\netcoreapp3.1\RoverChallenge.dll
+c:\Users\Elovitnas\roverChallenge\obj\Debug\netcoreapp3.1\RoverChallenge.pdb

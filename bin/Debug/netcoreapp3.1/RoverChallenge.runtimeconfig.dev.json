@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Elovitnas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Elovitnas\\.nuget\\packages"
+    ]
+  }
+}
