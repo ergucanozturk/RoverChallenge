@@ -62,6 +62,9 @@ MMRMMRMRRM
 Open project on Visual Studio then press F5
 
 -First enter area size in corresponding format (e.g. 55)
+
 -Enter how many roverlocation you want calculate (e.g. 2)
+
 -Enter start positions (e.g. 12n) and directional commands (e.g. lmlmlmlmm) for every rover
+
 -The final output will show every rover last position
