@@ -3,8 +3,6 @@ Rover Challenge on Net Core
 
 ## Mars Rover
 
-## Part 1
-
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
 curiously rectangular, must be navigated by the rovers so that their on board cameras can get a
 complete view of the surrounding terrain to send back to Earth.
@@ -41,9 +39,9 @@ The output for each rover should be its final co-ordinates and heading.
 
 Input and Output
 
-Test Input:
+# Test Input:
 
-5 5
+55
 
 1 2 N
 
@@ -53,8 +51,17 @@ LMLMLMLMM
 
 MMRMMRMRRM
 
-Expected Output:
+# Expected Output:
 
 1 3 N
 
 5 1 E
+
+## To Run Example Project
+
+Open project on Visual Studio then press F5
+
+-First enter area size in corresponding format (e.g. 55)
+-Enter how many roverlocation you want calculate (e.g. 2)
+-Enter start positions (e.g. 12n) and directional commands (e.g. lmlmlmlmm) for every rover
+-The final output will show every rover last position
